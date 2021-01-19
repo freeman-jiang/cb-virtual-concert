@@ -1,2 +1,2 @@
 # cb-virtual-concert
-CAS Project for the Colonel By Band Program
+Website made for the Colonel By Band Program's Virtual Concert
